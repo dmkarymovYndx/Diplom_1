@@ -1,12 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
-import praktikum.Bun;
 import praktikum.Database;
 import praktikum.Ingredient;
-
-import static constants.TestsData.*;
-
-// toDo: параметризованный тест для getType?
 
 public class IngredientTests {
 
